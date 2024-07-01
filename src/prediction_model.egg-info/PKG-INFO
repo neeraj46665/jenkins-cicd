@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: prediction_model
+Version: 1.0.0
+Summary: sentment analysis Prediction Model
+Home-page: https://github.com/neeraj46665
+Author: Neeraj Singh
+Author-email: neeraj@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: mlflow
+Requires-Dist: matplotlib
+Requires-Dist: nltk
+Requires-Dist: fastapi
+Requires-Dist: pydantic
+Requires-Dist: uvicorn
+Requires-Dist: gunicorn
+
+sentment analysis Prediction Model
